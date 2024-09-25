@@ -14,9 +14,13 @@
         <a href="https://twitter.com/sushankgurung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sushankgurung" height="30" width="40" /></a>
         <a href="https://linkedin.com/in/sushank-gurung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushank gurung" height="30" width="40" /></a>
     </p>
-
-    👨‍💻 You can check out my portfolio at www.sushankgurung.com 
-    📫 How to reach me: **sushankgurung2002@gmail.com**
+    <p>
+        Checkout my portfolio at <a href="https://www.sushankgurung.com" target="_blank" rel="noreferrer">www.sushankgurung.com</a>
+    </p>
+    <p>Or</p>
+    <p>
+        Email me at <a href="mailto:sushankgurung2002@gmail.com">sushankgurung2002@gmail.com</a>
+    </p>
 </div>
 
 <hr/>
