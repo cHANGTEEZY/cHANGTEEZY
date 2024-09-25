@@ -15,7 +15,7 @@
         <a href="https://linkedin.com/in/sushank-gurung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushank gurung" height="30" width="40" /></a>
     </p>
 
-    👨‍💻 You can check out my portfolio at www.sushankgurung.com <br>
+    👨‍💻 You can check out my portfolio at www.sushankgurung.com 
     📫 How to reach me: **sushankgurung2002@gmail.com**
 </div>
 
