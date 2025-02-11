@@ -1,5 +1,3 @@
-<h1 align="center">Chhyaajalo Fyofullaa!!🙏</h1>
-
 <h3 align="center">Hi 👋, I'm Sushank — Full Stack Developer. <br> I love anime, video games, and riding bikes!</h3>
 
 <p align="center">
