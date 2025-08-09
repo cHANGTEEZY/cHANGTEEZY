@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Sushank — Full Stack Developer. <br> I love anime, video games, and riding bikes!</h3>
+<h3 align="center">Hi 👋, I'm Sushank — Full Web & Mobile Developer. <br> I love anime, video games, and riding bikes!</h3>
 
 <p align="center">
     <img src="https://media.giphy.com/media/1tTeNNilc8XAdlZTdV/giphy.gif" width="480" height="485" alt="cat cartoon gif"/>
