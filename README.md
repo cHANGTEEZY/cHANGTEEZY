@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Sushank Gurung
+# Hi, I'm Sushank Gurung
 
 Welcome to my GitHub! I'm a passionate and eager **Full Stack Developer** with a Bachelor’s degree in Computer Science & Information Technology (BSC.CSIT). I love building beautiful, performant applications and exploring new technologies to keep my skills sharp.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 **Education:** Bachelor of Science in Computer Science & Information Technology (BSC.CSIT)
 - 💡 **Passionate Developer:** Always learning, always building
@@ -59,8 +59,8 @@ Welcome to my GitHub! I'm a passionate and eager **Full Stack Developer** with a
 ## 📫 Get in Touch
 
 - **Email:** sushankgurung2002@gmail.com 
-- **LinkedIn:** [linkedin.com/in/sushank-gurung](https://linkedin.com/in/sushankgurung)  
-- **Portfolio:** [sushankgurung.com](https://your-portfolio-link.com)
+- **LinkedIn:** (https://linkedin.com/in/sushank-gurung)  
+- **Portfolio:** (https://sushankgurung.com)
 
 ---
 
