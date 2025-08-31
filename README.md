@@ -59,8 +59,8 @@ Welcome to my GitHub! I'm a passionate and eager **Full Stack Developer** with a
 ## 📫 Get in Touch
 
 - **Email:** sushankgurung2002@gmail.com 
-- **LinkedIn:** [linkedin.com/in/sushankgurung](https://linkedin.com/in/sushankgurung)  
-- **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
+- **LinkedIn:** [linkedin.com/in/sushank-gurung](https://linkedin.com/in/sushankgurung)  
+- **Portfolio:** [sushankgurung.com](https://your-portfolio-link.com)
 
 ---
 
