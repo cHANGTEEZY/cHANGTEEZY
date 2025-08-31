@@ -1,81 +1,71 @@
-<h3 align="center">Hi 👋, I'm Sushank — Web & Mobile Developer. <br> I love anime, video games, and riding bikes!</h3>
+# 👋 Hi, I'm Sushank Gurung
+
+Welcome to my GitHub! I'm a passionate and eager **Full Stack Developer** with a Bachelor’s degree in Computer Science & Information Technology (BSC.CSIT). I love building beautiful, performant applications and exploring new technologies to keep my skills sharp.
+
+---
+
+## 🚀 About Me
+
+- 🎓 **Education:** Bachelor of Science in Computer Science & Information Technology (BSC.CSIT)
+- 💡 **Passionate Developer:** Always learning, always building
+- 🌱 **Eager to Learn:** Embracing new frameworks, libraries, and best practices
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=222) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=222) ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff)  
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff)  
+**Database:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)  
+**BaaS:**  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=222) ![Convex](https://img.shields.io/badge/-Convex-000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PC9zdmc+)  
+**Authentication:**  
+![Clerk](https://img.shields.io/badge/-Clerk-F73A7A?logo=clerk&logoColor=fff) ![OAuth](https://img.shields.io/badge/-OAuth-181717?logo=oauth&logoColor=fff)
+
+---
+
+## ✨ Focus Areas
+
+- **Great UI & UX:** Modern, responsive, and animated interfaces  
+- **Mobile Development:** Expo & React Native (CLI)  
+- **API Development:** RESTful & serverless with Next.js API routes  
+- **Authentication:** Secure, scalable auth with Clerk & OAuth  
+- **Database Design:** Relational design with PostgreSQL  
+- **BaaS:** Rapid prototyping with Supabase & Convex  
+
+---
+
+## 📸 UI & Animation Highlights
 
 <p align="center">
-    <img src="https://media.giphy.com/media/1tTeNNilc8XAdlZTdV/giphy.gif" width="480" height="485" alt="cat cartoon gif"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350" alt="App Animation" />
+  <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="350" alt="UI Animation" />
 </p>
 
-<hr/>
+---
 
-<div align="center">
-    <h3>Connect with me:</h3>
-    <p>
-        <a href="https://twitter.com/sushankgurung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sushankgurung" height="30" width="40" /></a>
-        <a href="https://linkedin.com/in/sushank-gurung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushank gurung" height="30" width="40" /></a>
-    </p>
-    <p>
-        Checkout my portfolio at <a href="https://www.sushankgurung.com" target="_blank" rel="noreferrer">www.sushankgurung.com</a>
-    </p>
-    <p>Or</p>
-    <p>
-        Email me at <a href="mailto:sushankgurung2002@gmail.com">sushankgurung2002@gmail.com</a>
-    </p>
-</div>
+## 📂 Featured Projects
 
-<hr/>
+| Project | Description | Tech Stack | Demo |
+| ------- | ----------- | ---------- | ---- |
+| **Modern Web Dashboard** | Responsive dashboard with charts & animation | React, Next.js, Framer Motion, PostgreSQL | ![Demo GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif) |
+| **Mobile Task Manager** | Cross-platform mobile app with real-time sync | React Native, Expo, Supabase, Clerk | ![Demo GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) |
 
-<div align="center">
-    <h3>Languages and Tools:</h3>
-    <p>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-        </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-        </a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
-        </a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
-        </a>
-        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>
-        </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-        </a>
-        <a href="https://docker.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
-        </a>
-    </p>
-</div>
+---
 
-<hr/>
+## 📫 Get in Touch
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=changteezy&label=Profile%20views&color=0e75b6&style=flat" alt="changteezy" /> </p>
+- **Email:** sushankgurung2002@gmail.com 
+- **LinkedIn:** [linkedin.com/in/sushankgurung](https://linkedin.com/in/sushankgurung)  
+- **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=changteezy" alt="changteezy" /></a> </p>
+---
 
-<div align="center">
-    <table>
-        <tr>
-            <td>
-                <a href="https://app.daily.dev/changteezy">
-                    <img src="https://api.daily.dev/devcards/v2/7o3Iyhf82kYr3dHqWJUul.png?r=u0n&type=default" width="356" alt="Sushank Gurung's Dev Card"/>
-                </a>
-            </td>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=changteezy&show_icons=true&locale=en" alt="GitHub stats" width="356" />
-                <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=changteezy&" alt="changteezy" /></p>
-            </td>
-        </tr>
-    </table>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Keep Coding" />
+</p>
 
-<hr/>
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
