@@ -1,12 +1,16 @@
-# Hi there, I'm Sushank Gurung 👋
-
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushank-gurung)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sushankgurung.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushankgurung2002@gmail.com)
+  <h1>Hi there, I'm Sushank Gurung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-**Full Stack Developer** | **BSC.CSIT Graduate** | **Building Beautiful Digital Experiences**
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;BSC.CSIT+Graduate;Building+Beautiful+Digital+Experiences" alt="Typing SVG" />
+  </a>
+
+  <br/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushank-gurung)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sushankgurung.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushankgurung2002@gmail.com)
 
 </div>
 
@@ -22,7 +26,7 @@ const sushank = {
   previousRole: "Frontend React Intern @ Amnil Technologies",
   passions: ["Clean Code", "Modern UI/UX", "Performance Optimization"],
   currentlyLearning: ["Advanced Backend Architectures", "Cloud Technologies"],
-  openTo: ["Collaboration", "Open Source", "Exciting Projects"]
+  openTo: ["Collaboration", "Open Source", "Exciting Projects"],
 };
 ```
 
@@ -86,22 +90,30 @@ const sushank = {
 ## 🎯 Featured Projects
 
 ### 🏠 [Vacation Home Rental System](https://github.com/cHANGTEEZY)
+
 Full-stack platform for booking and hosting vacation homes with advanced search capabilities
+
 - **Tech:** Next.js, PostgreSQL, Supabase, Clerk, Tailwind CSS
 - **Features:** Authentication • Property Management • Booking System • Reviews & Ratings
 
 ### 💬 [DevQuery](https://github.com/cHANGTEEZY)
+
 Q&A platform for developers with Markdown support and real-time search
+
 - **Tech:** Next.js, MongoDB, Express, Node.js
 - **Features:** Markdown Editor • Real-time Search • Tag System • Vote System
 
 ### 🎉 [Event Finder](https://github.com/cHANGTEEZY)
+
 Mobile-first app to discover and share nearby events using geolocation
+
 - **Tech:** React Native, Expo, PostgreSQL, React Query
 - **Features:** Location-based Search • Push Notifications • Offline Caching
 
 ### ⚡ [Fastify API Backend](https://github.com/cHANGTEEZY)
+
 High-performance RESTful API with authentication and CRUD operations
+
 - **Tech:** Fastify, PostgreSQL, TypeScript, JWT
 - **Features:** JWT Auth • Rate Limiting • Input Validation • API Docs
 
@@ -117,8 +129,18 @@ High-performance RESTful API with authentication and CRUD operations
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cHANGTEEZY&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cHANGTEEZY&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github.com/cHANGTEEZY/cHANGTEEZY/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  
+  <br/><br/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cHANGTEEZY&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cHANGTEEZY&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cHANGTEEZY&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
+  <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cHANGTEEZY&theme=radical&hide_border=true&background=0D1117)
 
@@ -141,7 +163,7 @@ High-performance RESTful API with authentication and CRUD operations
 const currentProjects = {
   learning: ["Microservices", "Cloud Architecture", "System Design"],
   building: ["Event Finder v2.0", "Personal Portfolio"],
-  exploring: ["AI Integration", "Real-time Applications"]
+  exploring: ["AI Integration", "Real-time Applications"],
 };
 ```
 
@@ -163,7 +185,7 @@ const currentProjects = {
 
 <div align="center">
 
-### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
+### 💭 _"First, solve the problem. Then, write the code."_ – John Johnson
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cHANGTEEZY&color=blueviolet&style=flat-square&label=Profile+Views)
 
