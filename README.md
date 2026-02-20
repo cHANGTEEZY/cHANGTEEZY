@@ -164,7 +164,7 @@ High-performance API service with auth, validation, and scalable architecture.
 <a href="https://www.freecodecamp.org/news/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
 <a href="https://css-tricks.com"><img src="https://img.shields.io/badge/CSS--Tricks-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 
-</div>
+<br/><br/>
 
 ### 🔥 Learning Resources I Use
 
