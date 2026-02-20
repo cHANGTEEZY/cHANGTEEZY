@@ -17,10 +17,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3DA9FC&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Crafting+beautiful+interfaces+%2B+robust+APIs;Open+for+collaboration+on+exciting+projects" alt="Typing animation"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=cHANGTEEZY&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
-
 </div>
 
 ---
@@ -53,8 +49,6 @@ const sushank = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![NativeWind](https://img.shields.io/badge/NativeWind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=0f172a)
 
 ### Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -63,7 +57,6 @@ const sushank = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=0f172a)
 
 ### Cloud & Tooling
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
@@ -138,10 +131,6 @@ High-performance API service with auth, validation, and scalable architecture.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cHANGTEEZY&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
-<br/>
-
-<img src="https://github.com/cHANGTEEZY/cHANGTEEZY/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
 </div>
 
 ---
@@ -151,28 +140,6 @@ High-performance API service with auth, validation, and scalable architecture.
 - 🚧 Building and improving multiple exciting projects.
 - 📚 Learning advanced backend patterns, cloud systems, and scalable architecture.
 - 🤝 Open to collaboration on products that create real user impact.
-
----
-
-## 📖 Where I Learn & Stay Updated
-
-<div align="center">
-
-<a href="https://dev.to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="https://hashnode.com"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-<a href="https://medium.com/tag/software-engineering"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.freecodecamp.org/news/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
-<a href="https://css-tricks.com"><img src="https://img.shields.io/badge/CSS--Tricks-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-
-</div>
-
-### 🔥 Learning Resources I Use
-
-- [roadmap.sh](https://roadmap.sh) — practical roadmaps for backend, frontend, DevOps, and system design.
-- [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) — hands-on full-stack and Next.js projects.
-- [freeCodeCamp](https://www.freecodecamp.org/learn) — solid curriculum for CS and full-stack foundations.
-- [Frontend Masters](https://frontendmasters.com) — deep dives into advanced frontend and JavaScript engineering.
-- [ByteByteGo](https://blog.bytebytego.com) — system design insights and architecture breakdowns.
 
 ---
 
