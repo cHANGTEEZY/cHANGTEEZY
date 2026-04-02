@@ -7,7 +7,7 @@ cloud infrastructure.
 
 [sushankgurung.com](https://sushankgurung.com) &nbsp;·&nbsp;
 [LinkedIn](https://linkedin.com/in/sushank-gurung) &nbsp;·&nbsp;
-[sales@vbee.studio](mailto:sales@vbee.studio)
+[vbee-studio@sushankgurung.com](mailto:vbee-studio@sushankgurung.com)
 
 ---
 
