@@ -59,7 +59,7 @@ early-stage products and founders who have a clear problem they want to solve.
 - Cleaning up and scaling an existing codebase
 
 If you have something in mind, reach out:
-**[sales@vbee.studio](mailto:sales@vbee.studio)**
+**[sales@vbee.studio](mailto:vbee-studio@sushankgurung.com)**
 
 ---
 
