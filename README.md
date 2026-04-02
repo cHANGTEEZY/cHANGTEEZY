@@ -1,113 +1,90 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Sushank+Gurung;Full-Stack+Developer+%E2%80%94+Kathmandu%2C+Nepal;React+%C2%B7+React+Native+%C2%B7+Node.js;Available+for+freelance+work"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
+# Sushank Gurung
 
-<br />
+Full-stack developer based in Kathmandu, Nepal. I build web and mobile products
+at [VBEE Studio](https://vbee.studio) — a small React & React Native engineering
+studio. My work spans the full stack: product UI, mobile apps, REST APIs, and
+cloud infrastructure.
 
-I'm a full-stack developer at [VBEE Studio](https://vbee.studio), a small
-engineering studio in Kathmandu. I build web and mobile products using React,
-React Native, and Node.js — from the first commit to production. I care about
-clean architecture, good developer experience, and shipping things that actually
-work.
+I care about clean architecture, maintainable codebases, and shipping things
+that hold up under real use.
 
-Currently going deep on backend patterns, distributed systems, and cloud
-infrastructure on AWS.
+[sushankgurung.com](https://sushankgurung.com) &nbsp;·&nbsp;
+[LinkedIn](https://linkedin.com/in/sushank-gurung) &nbsp;·&nbsp;
+[sales@vbee.studio](mailto:sales@vbee.studio)
 
 ---
 
-## Now
+## Currently
 
-- Building client products at **VBEE Studio** (React / React Native)
-- Studying: advanced backend patterns, event-driven architecture, PostgreSQL
+- Building client products at **VBEE Studio** — React, React Native, Node.js
+- Going deep on **backend architecture**, event-driven systems, and PostgreSQL
   internals
 - Reading: _Designing Data-Intensive Applications_ — Martin Kleppmann
-- Listening: [Syntax.fm](https://syntax.fm) · [The Changelog](https://changelog.com/podcast)
-
----
-
-## What I read
-
-These are the blogs and newsletters I actually open when they land in my inbox.
-
-**People**
-
-- [overreacted.io](https://overreacted.io) — Dan Abramov. Dense, honest writing
-  about React internals and software thinking
-- [joshwcomeau.com](https://www.joshwcomeau.com) — The best interactive
-  explanations of CSS and React on the internet
-- [TkDodo's blog](https://tkdodo.eu/blog) — Dominik Dorfmeister, React Query
-  maintainer. Practical, no fluff
-- [leerob.io](https://leerob.io) — Lee Robinson (Vercel). Next.js, DX, and
-  product thinking
-- [kentcdodds.com](https://kentcdodds.com/blog) — Testing, React patterns, and
-  career thoughts
-- [theodorusclarence.com](https://theodorusclarence.com/blog) — TypeScript and
-  Next.js patterns, genuinely useful
-
-**Newsletters**
-
-- [Bytes.dev](https://bytes.dev) — JavaScript newsletter that's actually fun to
-  read
-- [JavaScript Weekly](https://javascriptweekly.com) — Weekly digest, good
-  signal-to-noise ratio
-- [Node Weekly](https://nodeweekly.com) — Tracks the Node.js ecosystem well
-- [TLDR Newsletter](https://tldr.tech) — Tech news, fast
-
-**Communities / Discovery**
-
-- [Hacker News](https://news.ycombinator.com) — Still the best place for deep
-  technical discussion
-- [daily.dev](https://daily.dev) — Good for surfacing dev content I'd otherwise
-  miss
+- Listening: [Syntax.fm](https://syntax.fm) &nbsp;·&nbsp;
+  [The Changelog](https://changelog.com/podcast)
 
 ---
 
 ## Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-
-**Infra**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+| Layer     | Technologies                                                           |
+| --------- | ---------------------------------------------------------------------- |
+| Frontend  | React, Next.js, TypeScript, Tailwind CSS                               |
+| Mobile    | React Native, Expo, NativeWind                                         |
+| Backend   | Node.js, Fastify, Express, REST                                        |
+| Databases | PostgreSQL, MongoDB, Supabase, Drizzle ORM                             |
+| Infra     | AWS, Vercel, Linux                                                     |
+| Tooling   | Git, Figma, VS Code                                                    |
 
 ---
 
-## Hire me
+## What I Read
 
-I take on freelance projects — web apps, mobile apps, API development, or
-full product builds. I work best with early-stage products and founders who
-know what they want to build.
+The blogs and newsletters I actually open. Ordered by how often I go back to
+them.
+
+**People whose writing I follow**
+
+| Writer | Why it's worth reading |
+|---|---|
+| [Dan Abramov — overreacted.io](https://overreacted.io) | Dense, honest writing on React internals and how to think about software |
+| [Josh Comeau — joshwcomeau.com](https://www.joshwcomeau.com) | The best interactive explanations of CSS and React on the internet |
+| [Dominik Dorfmeister — tkdodo.eu](https://tkdodo.eu/blog) | React Query maintainer. Practical, zero fluff |
+| [Lee Robinson — leerob.io](https://leerob.io) | Next.js, developer experience, and product thinking from inside Vercel |
+| [Kent C. Dodds — kentcdodds.com](https://kentcdodds.com/blog) | Testing philosophy, React patterns, and straightforward career writing |
+| [Theodorus Clarence](https://theodorusclarence.com/blog) | TypeScript and Next.js patterns that are actually production-ready |
+
+**Newsletters**
+
+| Newsletter | What it covers |
+|---|---|
+| [Bytes.dev](https://bytes.dev) | JavaScript ecosystem — well-written, not dry |
+| [JavaScript Weekly](https://javascriptweekly.com) | Weekly digest, good signal-to-noise ratio |
+| [Node Weekly](https://nodeweekly.com) | Tracks the Node.js and backend JS space |
+| [TLDR](https://tldr.tech) | Fast daily tech news |
+
+**Discovery**
+
+- [Hacker News](https://news.ycombinator.com) — Still the best place for deep
+  technical threads
+- [daily.dev](https://daily.dev) — Surfaces dev content I'd otherwise miss
+
+---
+
+## Available for Freelance
+
+I take on freelance projects alongside studio work. I work best with
+early-stage products and founders who have a clear problem they want to solve.
 
 **What I can help with:**
 
-- Full-stack web apps (Next.js + Node.js / Supabase)
-- Cross-platform mobile apps (React Native + Expo)
-- REST API design and backend architecture
-- Taking an existing product from messy to maintainable
+- Full-stack web applications — Next.js, Node.js, Supabase, PostgreSQL
+- Cross-platform mobile apps — React Native, Expo
+- API design, backend architecture, and performance
+- Cleaning up and scaling an existing codebase
 
-**Contact:** [sales@vbee.studio](mailto:sales@vbee.studio) ·
-[sushankgurung.com](https://sushankgurung.com) ·
-[LinkedIn](https://linkedin.com/in/sushank-gurung)
+If you have something in mind, reach out:
+**[sales@vbee.studio](mailto:sales@vbee.studio)**
 
 ---
 
@@ -131,7 +108,6 @@ know what they want to build.
   />
 </div>
 
-<!-- Snake contribution graph — see setup instructions below -->
 <div align="center">
   <picture>
     <source
@@ -151,6 +127,4 @@ know what they want to build.
 
 ---
 
-<div align="center">
-  <sub>BSc. CSIT · Kathmandu, Nepal</sub>
-</div>
+<sub>BSc. CSIT &nbsp;·&nbsp; Kathmandu, Nepal</sub>
