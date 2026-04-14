@@ -53,7 +53,7 @@ early-stage products and founders who have a clear problem they want to solve.
 
 **What I can help with:**
 
-- Full-stack web applications — Next.js, Node.js, Supabase, PostgreSQL
+- Full-stack web applications — Next.js, Node.js, Convex, Supabase, PostgreSQL
 - Cross-platform mobile apps — React Native, Expo
 - API design, backend architecture, and performance
 - Cleaning up and scaling an existing codebase
