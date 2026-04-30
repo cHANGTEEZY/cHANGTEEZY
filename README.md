@@ -25,10 +25,11 @@ cloud infrastructure.
 | Layer     | Technologies                             |
 | --------- | ---------------------------------------- |
 | Frontend  | React, Next.js, TypeScript, Tailwind CSS |
-| Mobile    | React Native, Expo, NativeWind           |
-| Backend   | Node.js, Fastify, Express                |
+| Mobile    | React Native, Expo, NativeWind, UniWind  |
+| Backend   | Node.js, Fastify, Express,Hono           |
 | Databases | PostgreSQL, MongoDB, Supabase, Drizzle   |
-| Infra     | AWS, Vercel, Linux, Nginx                |
+| Infra     | AWS, Vercel, Dockploy, Digital Ocean,    |
+              Render, Google Cloud, Railway, Coolify   |
 | Tooling   | Git, Vim, Tmux, Figma                    |
 
 ---
