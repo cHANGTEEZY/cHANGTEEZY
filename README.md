@@ -5,39 +5,38 @@ at [VBEE Studio](https://vbee.studio) — a small React & React Native engineeri
 studio. My work spans the full stack: product UI, mobile apps, REST APIs, and
 cloud infrastructure.
 
-[sushankgurung.com](https://sushankgurung.com) &nbsp;·&nbsp;
-[LinkedIn](https://linkedin.com/in/sushank-gurung) &nbsp;·&nbsp;
+[sushankgurung.com](https://sushankgurung.com) ·
+[LinkedIn](https://linkedin.com/in/sushank-gurung) ·
 [vbee-studio@sushankgurung.com](mailto:vbee-studio@sushankgurung.com)
 
 ---
 
 ## Currently
 
-- Building client products at **VBEE Studio** — React, React Native, Node.js
-- Going deep on **backend architecture**, event-driven systems, and PostgreSQL internals
-- Reading: _Designing Data-Intensive Applications_ — Martin Kleppmann
-- Listening: [Syntax.fm](https://syntax.fm) &nbsp;·&nbsp; [The Changelog](https://changelog.com/podcast)
+- Building client products at **VBEE Studio** — React, React Native, Node.js  
+- Going deep on **backend architecture**, event-driven systems, and PostgreSQL internals  
+- Reading: _Designing Data-Intensive Applications_ — Martin Kleppmann  
+- Listening: [Syntax.fm](https://syntax.fm) · [The Changelog](https://changelog.com/podcast)
 
 ---
 
 ## Stack
 
-| Layer     | Technologies                             |
-| --------- | ---------------------------------------- |
-| Frontend  | React, Next.js, TypeScript, Tailwind CSS |
-| Mobile    | React Native, Expo, NativeWind, UniWind  |
-| Backend   | Node.js, Fastify, Express,Hono           |
-| Databases | PostgreSQL, MongoDB, Supabase, Drizzle   |
-| Infra     | AWS, Vercel, Dockploy, Digital Ocean,    |
-              Render, Google Cloud, Railway, Coolify   |
-| Tooling   | Git, Vim, Tmux, Figma                    |
+| Layer     | Technologies                                                                 |
+|-----------|------------------------------------------------------------------------------|
+| Frontend  | React, Next.js, TypeScript, Tailwind CSS                                     |
+| Mobile    | React Native, Expo, NativeWind, UniWind                                      |
+| Backend   | Node.js, Fastify, Express, Hono                                              |
+| Databases | PostgreSQL, MongoDB, Supabase, Drizzle                                       |
+| Infra     | AWS, Vercel, DigitalOcean, Render, Google Cloud, Railway, Coolify, Dockploy  |
+| Tooling   | Git, Vim, Tmux, Figma                                                        |
 
 ---
 
 ## What I Read
 
 | Writer | Why it's worth reading |
-| --- | --- |
+|-------|------------------------|
 | [Dan Abramov — overreacted.io](https://overreacted.io) | Dense, honest writing on React internals and how to think about software |
 | [Josh Comeau — joshwcomeau.com](https://www.joshwcomeau.com) | The best interactive explanations of CSS and React on the internet |
 | [Dominik Dorfmeister — tkdodo.eu](https://tkdodo.eu/blog) | React Query maintainer. Practical, zero fluff |
@@ -54,14 +53,18 @@ early-stage products and founders who have a clear problem they want to solve.
 
 **What I can help with:**
 
-- Full-stack web applications — Next.js, Node.js, Convex, Supabase, PostgreSQL
-- Cross-platform mobile apps — React Native, Expo
-- API design, backend architecture, and performance
-- Cleaning up and scaling an existing codebase
+- Full-stack web applications — Next.js, Node.js, Refine, Supabase, PostgreSQL  
+- Frontend development — React, TypeScript, Tailwind, Vanilla JS  
+- Cross-platform mobile apps — React Native, Expo  
+- API design, backend architecture, and performance optimization  
+- Building scalable systems and event-driven architectures  
+- Refactoring and scaling messy or legacy codebases  
+- MVP development — from idea to production  
+- Developer experience improvements and tooling setup  
 
-If you have something in mind, reach out:
+If you have something in mind, reach out:  
 **[vbee-studio@sushankgurung.com](mailto:vbee-studio@sushankgurung.com)**
 
 ---
 
-<sub>BSc. CSIT &nbsp;·&nbsp; Kathmandu, Nepal</sub>
+> "Build simple things that scale, not complex things that break."
