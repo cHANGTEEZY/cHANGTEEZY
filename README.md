@@ -62,9 +62,11 @@ early-stage products and founders who have a clear problem they want to solve.
 - MVP development — from idea to production  
 - Developer experience improvements and tooling setup  
 
-If you have something in mind, reach out:  
-**[vbee-studio@sushankgurung.com](mailto:vbee-studio@sushankgurung.com)**
-**[https://vbee.sushankgurung.com]
+If you have a project in mind or just want to chat, feel free to reach out:
+
+- **Email:** [vbee-studio@sushankgurung.com](mailto:vbee-studio@sushankgurung.com)
+- **Website:** [vbee.sushankgurung.com](https://vbee.sushankgurung.com)
+
 
 ---
 
