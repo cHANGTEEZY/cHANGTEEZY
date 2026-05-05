@@ -64,6 +64,7 @@ early-stage products and founders who have a clear problem they want to solve.
 
 If you have something in mind, reach out:  
 **[vbee-studio@sushankgurung.com](mailto:vbee-studio@sushankgurung.com)**
+**[https://vbee.sushankgurung.com]
 
 ---
 
