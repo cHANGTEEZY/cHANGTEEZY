@@ -24,7 +24,7 @@ cloud infrastructure.
 
 | Layer     | Technologies                                                                 |
 |-----------|------------------------------------------------------------------------------|
-| Frontend  | React, Next.js, TypeScript, Tailwind CSS                                     |
+| Frontend  | React, Next.js, TypeScript, Refine, Tanstack Start, Tailwind CSS,            |
 | Mobile    | React Native, Expo, NativeWind, UniWind                                      |
 | Backend   | Node.js, Fastify, Express, Hono                                              |
 | Databases | PostgreSQL, MongoDB, Supabase, Drizzle                                       |
