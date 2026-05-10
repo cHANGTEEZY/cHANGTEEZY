@@ -26,7 +26,7 @@ cloud infrastructure.
 |-----------|------------------------------------------------------------------------------|
 | Frontend  | React, Next.js, TypeScript, Refine, Tanstack Start, Tailwind CSS,            |
 | Mobile    | React Native, Expo, NativeWind, UniWind                                      |
-| Backend   | Node.js, Fastify, Express, Hono                                              |
+| Backend   | Node.js, Fastify, Express, Hono, Cloudflare Workers                          |
 | Databases | PostgreSQL, MongoDB, Supabase, Drizzle                                       |
 | Infra     | AWS, Vercel, DigitalOcean, Render, Google Cloud, Railway, Coolify, Dockploy  |
 | Tooling   | Git, Vim, Tmux, Figma                                                        |
