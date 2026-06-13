@@ -47,7 +47,8 @@ I build web and mobile products at [VBEE Studio](https://vbee.studio), a React a
 
 I take on freelance projects alongside studio work, especially with early-stage teams solving clear, high-impact problems.
 
-### I can help with:
+### I can help with
+
 - **Full-stack web applications** — Next.js, Node.js, Refine, Supabase, PostgreSQL
 - **Frontend development** — React, TypeScript, Tailwind, Vanilla JS
 - **Cross-platform mobile apps** — React Native, Expo
@@ -57,7 +58,7 @@ I take on freelance projects alongside studio work, especially with early-stage 
 - **MVP development** — from idea to production
 - **Developer experience improvements and tooling setup**
 
-**Reach out:**
+**Reach out**
 - **Email:** [vbee-studio@sushankgurung.com](mailto:vbee-studio@sushankgurung.com)
 - **Studio site:** [vbee.sushankgurung.com](https://vbee.sushankgurung.com)
 
