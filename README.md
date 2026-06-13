@@ -58,7 +58,13 @@
 ### GitHub Overview
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/cHANGTEEZY?template=classic&base=header,activity,community,repositories,metadata&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&plugin_languages=yes&plugin_languages_details=bytes-size,percentage&plugin_habits=yes&plugin_habits_from=200&plugin_habits_days=14&plugin_habits_facts=yes&plugin_habits_charts=yes" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/cHANGTEEZY/cHANGTEEZY/output/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cHANGTEEZY/cHANGTEEZY/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 <br />
