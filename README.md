@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Sushank%20Gurung&fontSize=50&animation=twinkling&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20VBEE%20Studio&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header" />
-</div>
-
-<div align="center">
   <h3>Architecting Scalable Systems & Building Engaging UIs</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Building+at+VBEE+Studio;Crafting+Event-Driven+Systems;Optimizing+PostgreSQL;Developing+Cross-Platform+Apps" alt="Typing SVG" />
 </div>
@@ -62,8 +58,7 @@
 ### GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cHANGTEEZY&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cHANGTEEZY&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://metrics.lecoq.io/cHANGTEEZY?template=classic&base=header,activity,community,repositories,metadata&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&plugin_languages=yes&plugin_languages_details=bytes-size,percentage&plugin_habits=yes&plugin_habits_from=200&plugin_habits_days=14&plugin_habits_facts=yes&plugin_habits_charts=yes" alt="GitHub Metrics" width="100%" />
 </div>
 
 <br />
