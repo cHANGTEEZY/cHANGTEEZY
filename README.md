@@ -1,17 +1,80 @@
-# Sushank Gurung
-
-Full-stack developer based in Kathmandu, Nepal.  
-I build web and mobile products at [VBEE Studio](https://vbee.studio), a React and React Native engineering studio.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Sushank%20Gurung&fontSize=50&animation=twinkling&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20VBEE%20Studio&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header" />
+</div>
 
 <div align="center">
-  <a href="https://sushankgurung.com"><strong>Website</strong></a> &nbsp;&bull;&nbsp;
-  <a href="https://linkedin.com/in/sushank-gurung"><strong>LinkedIn</strong></a> &nbsp;&bull;&nbsp;
-  <a href="mailto:vbee-studio@sushankgurung.com"><strong>Email</strong></a>
+  <h3>Architecting Scalable Systems & Building Engaging UIs</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Building+at+VBEE+Studio;Crafting+Event-Driven+Systems;Optimizing+PostgreSQL;Developing+Cross-Platform+Apps" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### Fast Facts
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/briefcase.svg" width="20" height="20" alt="Briefcase" />
+      <br /><strong>Current Role</strong><br />
+      Full-stack developer at <a href="https://vbee.studio">VBEE Studio</a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/location-dot.svg" width="20" height="20" alt="Location" />
+      <br /><strong>Location</strong><br />
+      Kathmandu, Nepal
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/laptop-code.svg" width="20" height="20" alt="Learning" />
+      <br /><strong>Learning</strong><br />
+      Backend architecture, event-driven systems
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/headphones.svg" width="20" height="20" alt="Interests" />
+      <br /><strong>Interests</strong><br />
+      Data-Intensive Apps, Podcasts
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css" alt="Frontend Skills" />
+
+**Backend & Databases**
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,postgres,mongodb,supabase" alt="Backend Skills" />
+
+**Mobile & Tools**
+<br />
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,figma,vim" alt="Mobile and Tools" />
+
+</div>
+
+---
+
+### GitHub Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cHANGTEEZY&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cHANGTEEZY&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cHANGTEEZY&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+### Featured Projects
 
 - **[CPipe](https://github.com/cHANGTEEZY/CPipe)** — The lean project pipeline that turns "todo" into "shipped" without the ceremony. Featuring live burn-downs, auto-generated changelogs, and GitHub-native CI hooks.
 - **[CV-Manager](https://github.com/cHANGTEEZY/CV-Manager)** — A comprehensive resume/CV management tool.
@@ -21,50 +84,13 @@ I build web and mobile products at [VBEE Studio](https://vbee.studio), a React a
 
 ---
 
-## ⚡ Current Focus
+### Freelance
 
-- Building client products at **VBEE Studio** with React, React Native, and Node.js
-- Going deeper into **backend architecture**, event-driven systems, and PostgreSQL internals
-- Reading: _Designing Data-Intensive Applications_ — Martin Kleppmann
-- Listening: [Syntax.fm](https://syntax.fm) · [The Changelog](https://changelog.com/podcast)
+I take on freelance projects alongside studio work, especially with early-stage teams solving clear, high-impact problems. I can help with full-stack web applications, frontend development, cross-platform mobile apps, MVP development, and API design.
 
 ---
 
-## 💻 Tech Stack
-
-| Layer     | Technologies |
-|-----------|--------------|
-| **Frontend**  | React, Next.js, TypeScript, Refine, Tanstack Start, Tailwind CSS |
-| **Mobile**    | React Native, Expo, NativeWind, UniWind |
-| **Backend**   | Node.js, Fastify, Express, Hono, Cloudflare Workers |
-| **Databases** | PostgreSQL, MongoDB, Supabase, Drizzle |
-| **Infra**     | AWS, Vercel, DigitalOcean, Render, Google Cloud, Railway, Coolify, Dockploy |
-| **Tooling**   | Git, Vim, Tmux, Figma |
-
----
-
-## 💼 Freelance
-
-I take on freelance projects alongside studio work, especially with early-stage teams solving clear, high-impact problems.
-
-### I can help with
-
-- **Full-stack web applications** — Next.js, Node.js, Refine, Supabase, PostgreSQL
-- **Frontend development** — React, TypeScript, Tailwind, Vanilla JS
-- **Cross-platform mobile apps** — React Native, Expo
-- **API design, backend architecture, and performance optimization**
-- **Building scalable systems and event-driven architectures**
-- **Refactoring and scaling messy or legacy codebases**
-- **MVP development** — from idea to production
-- **Developer experience improvements and tooling setup**
-
-**Reach out**
-- **Email:** [vbee-studio@sushankgurung.com](mailto:vbee-studio@sushankgurung.com)
-- **Studio site:** [vbee.sushankgurung.com](https://vbee.sushankgurung.com)
-
----
-
-## 📚 Recommended Reading
+### Recommended Reading
 
 | Writer | Why it's worth reading |
 |-------|------------------------|
@@ -77,5 +103,25 @@ I take on freelance projects alongside studio work, especially with early-stage 
 
 ---
 
-> *"Build simple things that scale, not complex things that break."*
+### Let's Connect
 
+<div align="center">
+  <a href="https://linkedin.com/in/sushank-gurung">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://sushankgurung.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:vbee-studio@sushankgurung.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br />
+
+<!-- LATEST_POSTS_START -->
+<!-- LATEST_POSTS_END -->
+
+<div align="center">
+  <i>"Build simple things that scale, not complex things that break."</i>
+</div>
