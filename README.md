@@ -1,79 +1,63 @@
-# Sushank Gurung
-
-Full-stack developer at [VBEE Studio](https://vbee.studio). Based in Kathmandu, Nepal.
-
-I build scalable systems and thoughtful interfaces — event-driven backends, data-intensive apps, and UIs that feel fast and intentional.
-
-## Profile ASCII
-
 ```text
-#*###%#%#                                                 
-                                     %%@@@@@@@@@@%%@%                                               
-                                     %@@%%%%%%%%%@@@@%                                              
-                                     #%%%%%%%%%%%%%%@%                                              
-                              %%%%@@@%%%%%@@@@%%%%%%%%%@%                                           
-                              %%@@@@@@%%%%%%%%%%%%%@@@@@@@%%                                        
-                                 @@@@@@@@@%%%@@@@@%@@@@@@@@@%                                       
-                                     %@@@@%*#@@@@%**%#%                                             
-                                     ***************#*                                              
-                                     +++++===++++++**+                                              
-                                     =++++++==+++++**#@@@@@@@%                                      
-                                    %%#*++++++++***##%@@@@@@@%                                      
-                               ***#@@@%%%@@%%%@@%%%%@@@%###%%%                                      
-                             ****#%%@%##%%@@@@@###%%@@@####****                                     
-                             ****#%@@#**##%@#@%#***%%%%####*****                                    
-                            *****%%@@*****%%#@#***#%%%%#******##*                                   
-                            ****#%@@@*+++*####****#%@@%*******##*                                   
-                           ****+*#@@@***+****#****#%@@##******#*                                    
-                          ***+++++*%%****#####****#@@%******###*                                    
-                          *#++++++++*****###*#***++#%#******##*                                     
-                         **#****#****************+++*##****####                                     
-                        ****#######**********####****####*###%%                                     
-                        *#********#####################***###%@                                     
-                         #########%%%%%%#############*****##%@%                                     
-                          ###%##%%%%%%%%%%%%######*****#####%%@                                     
-                            ##   ######%%%%%%%%%%%%%%%%%#%%@@%%                                     
-                                 ##################%%#####@@@%                                      
-                                 ###########%##########**#%@@%                                      
-                                *############****######*##%@@@                                      
-                                %%%%%#***####******######%@@@%                                      
-                                %%%@@@@@%###%%%%%%%%%%%@@@@@%                                       
-                                ********####%%%#%%%%@@@%***                                         
-                                *********#*#*********#%%***                                         
-                               *##*********##********#%%***                                         
-                               *###############*****##%@###                                         
-                                 @@@%%%%@@@@@#########%@##                                          
-                                %@@@@@@@@@@@@@@@@@@@%%@@@                                           
-                                %%%%@@@@@@%%%%%@@@@@@@@@%#                                          
-                                %%%%%@@@@@@@%%%@@%%@@@@%%%                                          
-                                %%%%%%%@@@@@@ @@@@%%%%%%%%                                          
-                               %%@@%%%@@@@@@  %@%%%%%%%%%%                                          
-                               %%%@@@@@@@@@@  %%%%%%%%@@%%%                                         
-                               %%%%%@@@@@@@@   %@@%%%%%%%%%                                         
-                               @@@%@@@@@@@@    @@@@@%%%**%@                                         
-                               @@@@@@@@@@@%     %@%%%%%%%@@%                                        
-                               %@@@@@@@@@@      %%@@@@@@@@%%                                        
-                               %@@@@@@@@@@       @@@@@@@%%%%                                        
-                              %@@@@@@@@@@%       @@@@@%%%%%%                                        
-                               %@@@@@@@@@%       #%@@@@@@@@%                                        
-                               %@@@@@@@@@         @@@@@@@@@%%                                       
-                               @@@@@@@@@@         %@@@@@@@@%%                                       
-                               @@@@@@@@@@          @@%%%%@@@%                                       
-                               @@@@@@@@@@          %@@@@@@@@@                                       
-                               @@@@@@@@@@          %@@@@@@@@%                                       
-                              %@@@@@@@@@@%          @@@@@@@@%%                                      
-                             @@@@@@@@@@@@%          %@@@@@@@%%                                      
-                              %@@@@@@@@@@           #@@@@@@@@@%                                     
-                              %%##%@@@@@@           @@@@@@@@@%%                                     
-                             %%##%%@@@@@@            @@@@@@@@%                                      
-                          %%%%##%%@@@@@@%            %%#%%%@@%                                      
-                         %@@@%%%@@@@%%%%#            %%%%%%%@%                                      
-                         #%%%%@@@%%##                %%###%%@%%                                     
-                          ########                  %%%%%%%%%%                                      
-                                                    %@@@@@@%%#                                      
-                                                    #%%%%%%%#                                       
-                                                    ########                                        
+ZYURQPNKIHH
+                                 GGHHHHHHHHHFFV
+                                 HHHHHHHHHHHFFG
+                           QPOMNIIIHGFGFGGGHHHHHN
+                           LDDDDCGGHIKLLKKKJCDCDDGH
+                              3CEFDDESRCCCDQKDDCCCCE
+                                 ECDDWVDEEEWXLS
+                                 33580997655ZXX
+                                 77788998787ZYVCBCDI
+                                  76867777XYXURCCCCFFK
+                            30GECKKHDMLKEBJKMEFGLUVSGO
+                          YWVKHHIPNNMCECJOOOJHGFSSUUWWY
+                         1XXWIHFSZ1TWCRCOU15IHHJSUUVWYVW
+                         WWVVGGG121ZWBSDXZ2ZFGHLVVXYYYSR
+                        XWUVUFEEZ133UUVU1222EFFPUWXYZUU3
+                       4U6a464DFYZ11UVVTYYZ2FFFVVXXWXSS
+                       TV4087652VVVVSSVVVVYZXDVVWWWXRRd
+                      XUSWUTUVUVVWWVVVVWWV2871TTVVVWRT
+                     hWVUUUUUUUVVWWWWWVUUUSXYVUUUUUQQK
+                      UVVVWWWVSPNMMNNOPPRSTTTUUUVWWRQF
+                       NOOOOONNNNMNOSTTTUUUVUUUUVWRRHF
+                        36   OONPOMLLKLMNNNMMNPPNONPGF
+                             QQPSRPNOOOPPPPONNNOPREDFD
+                             PRTTTTOQONRSSSSOOOUVVMEFG
+                             RRSTTTQTTSYZWUTPOORVVMFF
+                            JFEFMSYUUVVXX1YVTUSRTOEFG
+                            UUYPIFGRQQHFEFFFFFEEFFT
+                            XY222WVUUTUUU22XWWUFTTY
+                            UV1YZ11UVWUYY322ZXTHPYV
+                            RRRTUVVUUUTUUXY2YUTFJWU
+                             EDEFLQEEEFTSUTRRSSGIY
+                             GGGGGGGGGGFEEEEEDDFGQ
+                            MIHIGFFGHHHHHGGGGGFGGH
+                            JIIIGFFEDDI HGGIIHIIIJ
+                            FHIIIHFEDD  EFHHHHHIII
+                            HGGGGFFDDG   HIIHHHGGHR
+                            HHHHGFEDD    GGHHHHHHII
+                           PFHHFGGEEE    4FGGHHH2GG
+                           JGGGFFFDDa     HGHHHGGGH
+                           GGHHHFDDC      3HGGGGGGHP
+                           DFGFFFEEG       EFGGHHHIK
+                           EFGFFFDDH       3GGGHHHHF
+                           GGGFEEDDM        GGGGGFFG
+                           HGGFEEDD5        EEGGGGGI
+                           KGGFFEEE         7FHHHGGGU
 ```
+
+<div align="center">
+
+### Sushank Gurung
+
+Full-stack developer at [VBEE Studio](https://vbee.studio), based in Nepal. I build scalable systems and thoughtful interfaces — event-driven backends, data-intensive apps, and UIs that feel fast and intentional.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushank-gurung)
+[![Website](https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://sushankgurung.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbee-studio@sushankgurung.com)
+[![Blog](https://img.shields.io/badge/The_Chang_Theory-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cHANGTEEZY/The_Chang_Theory)
+
+</div>
 
 ---
 
@@ -92,11 +76,31 @@ Currently focused on backend architecture, PostgreSQL optimization, and cross-pl
 
 ## Stack
 
-**Frontend** — React, Next.js, TypeScript, Tailwind CSS, Vite
+**Frontend**
 
-**Backend** — Node.js, Express, Fastify, PostgreSQL, MongoDB, Supabase
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Mobile & Tools** — React Native, Expo, AWS, Vercel, Docker, Git
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Mobile & Tools**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -139,9 +143,5 @@ Full-stack web apps · Frontend development · Cross-platform mobile · MVP buil
 <!-- LATEST_POSTS_END -->
 
 ---
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/sushank-gurung) · [Website](https://sushankgurung.com) · [Email](mailto:vbee-studio@sushankgurung.com)
 
 *Build simple things that scale, not complex things that break.*
