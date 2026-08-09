@@ -1,12 +1,9 @@
-```text
-███  █   █  ███  █   █  ███  █████ █████ █████ █████ █   █
-█     █   █ █   █ ██  █ █       █   █     █        █   █ █
-█     █████ █████ █ █ █ █  ██   █   ████  ████    █     █
-█     █   █ █   █ █  ██ █   █   █   █     █      █      █
- ███  █   █ █   █ █   █  ███    █   █████ █████ █████   █
-```
+<h1 align="center">Sushank Gurung</h1>
 
-```text
+<table align="center">
+  <tr>
+    <td align="right" valign="middle">
+      <pre>
 ODDDDDDCCE
                      FFEEEEEEDDG
                   HBBBBCCBBBBCBBBC
@@ -36,18 +33,18 @@ ODDDDDDCCE
                   CCCBB     DCCDDD
                   CCBBB      CCCCC
                   CCCBB      CDDCC
-```
+      </pre>
+    </td>
+    <td valign="middle" width="60%">
+      Full-stack developer at [VBEE Studio](https://vbee.studio), based in Nepal. I build scalable systems and thoughtful interfaces — event-driven backends, data-intensive apps, and UIs that feel fast and intentional.
 
-<div align="center">
-
-Full-stack developer at [VBEE Studio](https://vbee.studio), based in Nepal. I build scalable systems and thoughtful interfaces — event-driven backends, data-intensive apps, and UIs that feel fast and intentional.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushank-gurung)
-[![Website](https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://sushankgurung.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbee-studio@sushankgurung.com)
-[![Blog](https://img.shields.io/badge/The_Chang_Theory-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cHANGTEEZY/The_Chang_Theory)
-
-</div>
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushank-gurung)
+      [![Website](https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://sushankgurung.com)
+      [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbee-studio@sushankgurung.com)
+      [![Blog](https://img.shields.io/badge/The_Chang_Theory-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cHANGTEEZY/The_Chang_Theory)
+    </td>
+  </tr>
+</table>
 
 ---
 
