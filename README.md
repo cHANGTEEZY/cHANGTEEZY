@@ -1,54 +1,44 @@
 ```text
-ZYURQPNKIHH
-                                 GGHHHHHHHHHFFV
-                                 HHHHHHHHHHHFFG
-                           QPOMNIIIHGFGFGGGHHHHHN
-                           LDDDDCGGHIKLLKKKJCDCDDGH
-                              3CEFDDESRCCCDQKDDCCCCE
-                                 ECDDWVDEEEWXLS
-                                 33580997655ZXX
-                                 77788998787ZYVCBCDI
-                                  76867777XYXURCCCCFFK
-                            30GECKKHDMLKEBJKMEFGLUVSGO
-                          YWVKHHIPNNMCECJOOOJHGFSSUUWWY
-                         1XXWIHFSZ1TWCRCOU15IHHJSUUVWYVW
-                         WWVVGGG121ZWBSDXZ2ZFGHLVVXYYYSR
-                        XWUVUFEEZ133UUVU1222EFFPUWXYZUU3
-                       4U6a464DFYZ11UVVTYYZ2FFFVVXXWXSS
-                       TV4087652VVVVSSVVVVYZXDVVWWWXRRd
-                      XUSWUTUVUVVWWVVVVWWV2871TTVVVWRT
-                     hWVUUUUUUUVVWWWWWVUUUSXYVUUUUUQQK
-                      UVVVWWWVSPNMMNNOPPRSTTTUUUVWWRQF
-                       NOOOOONNNNMNOSTTTUUUVUUUUVWRRHF
-                        36   OONPOMLLKLMNNNMMNPPNONPGF
-                             QQPSRPNOOOPPPPONNNOPREDFD
-                             PRTTTTOQONRSSSSOOOUVVMEFG
-                             RRSTTTQTTSYZWUTPOORVVMFF
-                            JFEFMSYUUVVXX1YVTUSRTOEFG
-                            UUYPIFGRQQHFEFFFFFEEFFT
-                            XY222WVUUTUUU22XWWUFTTY
-                            UV1YZ11UVWUYY322ZXTHPYV
-                            RRRTUVVUUUTUUXY2YUTFJWU
-                             EDEFLQEEEFTSUTRRSSGIY
-                             GGGGGGGGGGFEEEEEDDFGQ
-                            MIHIGFFGHHHHHGGGGGFGGH
-                            JIIIGFFEDDI HGGIIHIIIJ
-                            FHIIIHFEDD  EFHHHHHIII
-                            HGGGGFFDDG   HIIHHHGGHR
-                            HHHHGFEDD    GGHHHHHHII
-                           PFHHFGGEEE    4FGGHHH2GG
-                           JGGGFFFDDa     HGHHHGGGH
-                           GGHHHFDDC      3HGGGGGGHP
-                           DFGFFFEEG       EFGGHHHIK
-                           EFGFFFDDH       3GGGHHHHF
-                           GGGFEEDDM        GGGGGFFG
-                           HGGFEEDD5        EEGGGGGI
-                           KGGFFEEE         7FHHHGGGU
+███  █   █  ███  █   █  ███  █████ █████ █████ █████ █   █
+█     █   █ █   █ ██  █ █       █   █     █        █   █ █
+█     █████ █████ █ █ █ █  ██   █   ████  ████    █     █
+█     █   █ █   █ █  ██ █   █   █   █     █      █      █
+ ███  █   █ █   █ █   █  ███    █   █████ █████ █████   █
+```
+
+```text
+ODDDDDDCCE
+                     FFEEEEEEDDG
+                  HBBBBCCBBBBCBBBC
+                     IBBIHBBJJH
+                     NMOOONNMKL
+                      NNNNNNKJGBBCC
+                  JHCEFDBFBEECCFHJJ
+                 JJDCJKIBGEJMDDIIIJK
+                JJICCLMLGIKLLCCJJKKII
+               JJONHBKLKJIKKLCCIJJJH
+               IOMNLKJJJJJJJPOHIJJHL
+              JJIIIIIJJJJJIIKJIIIIH
+              NGGGGFFFFGHIIIIIIJJHE
+                K  GFGFEEEFFFFGFFFC
+                   GHHHGGGHHGGFIJBC
+                   GHIHIIHLJIGGJJBC
+                  IBCCCHHCCEFHHCBB
+                  MLLLJIIIILJJIBJ
+                  HLKJJIIIJLLKICJ
+                   BBBECCEHIHHHB
+                   DCCCCCDCCCCBCH
+                  HDDCCBB DCDDDDD
+                  CCCCCBB HCDDDCD
+                  DDCCCB   CCCCCD
+                  CCCCBB   FCCDFCF
+                  CCCCBJ    CCCCCD
+                  CCCBB     DCCDDD
+                  CCBBB      CCCCC
+                  CCCBB      CDDCC
 ```
 
 <div align="center">
-
-### Sushank Gurung
 
 Full-stack developer at [VBEE Studio](https://vbee.studio), based in Nepal. I build scalable systems and thoughtful interfaces — event-driven backends, data-intensive apps, and UIs that feel fast and intentional.
 
