@@ -1,13 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6366f1,100:14b8a6&height=200&section=header&text=Sushank%20Gurung&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20%7C%20VBEE%20Studio%20%7C%20Lalitpur%2C%20Nepal&descSize=16&descAlignY=58" alt="Sushank Gurung" />
-</div>
 
-<div align="center">
-  <img src="./assets/hi.gif" width="42" alt="Waving hand" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=680&lines=Architecting+scalable+systems;Building+interfaces+that+feel+fast;Event-driven+backends+%26+APIs;PostgreSQL+performance;Cross-platform+apps+with+Expo" alt="Typing headline" />
-</div>
+# Sushank Gurung
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=680&lines=Architecting+scalable+systems;Building+interfaces+that+feel+fast;Event-driven+backends+%26+APIs;PostgreSQL+performance;Cross-platform+apps+with+Expo" alt="Typing headline" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushank-gurung)
 [![Website](https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://sushankgurung.com)
@@ -62,15 +57,88 @@
 
 ## Stack
 
-How a typical product is wired:
+How a product is wired end to end — clients at the edge, typed APIs in the middle, and a data plane that can take load.
 
 ```mermaid
-flowchart LR
-  Clients["Web · Mobile"] --> APIs["Hono · Nest · tRPC"]
-  APIs --> Data[("PostgreSQL")]
-  APIs --> Cache[("Redis")]
-  Clients --> Native["Expo / React Native"]
+flowchart TB
+  subgraph clients["Client layer"]
+    WEB["Next.js / TanStack Start<br>TanStack Query · Zustand"]
+    MOB["Expo / React Native"]
+    ADMIN["Admin / internal tools"]
+  end
+
+  subgraph edge["Edge and ingress"]
+    CDN["CDN · Vercel Edge<br>TLS · cache · WAF"]
+    PROXY["Caddy / Nginx<br>load balancer"]
+  end
+
+  subgraph identity["Identity"]
+    AUTH["Sessions · JWT · OAuth<br>Firebase / Supabase Auth"]
+    RL["Rate limits · API keys"]
+  end
+
+  subgraph app["Application"]
+    GW["API gateway"]
+    BFF["tRPC BFF"]
+    REST["Hono · NestJS · Fastify"]
+    RT["Convex / WebSockets"]
+    WORK["Workers · cron · queues"]
+    EVT["Event bus / pub-sub"]
+  end
+
+  subgraph data["Data plane"]
+    ORM["Prisma / Drizzle"]
+    PG[("PostgreSQL primary")]
+    REPL[("Read replica")]
+    REDIS[("Redis<br>cache · sessions · jobs")]
+    BLOB["Object storage"]
+  end
+
+  subgraph platform["Platform"]
+    CI["GitHub Actions"]
+    DOCKER["Docker"]
+    CLOUD["AWS · GCP · Vercel<br>DigitalOcean · Hetzner"]
+    OBS["Logs · metrics · traces"]
+  end
+
+  WEB --> CDN
+  MOB --> CDN
+  ADMIN --> CDN
+  CDN --> PROXY --> GW
+  GW --> AUTH
+  AUTH --> RL
+  RL --> BFF
+  RL --> REST
+  RL --> RT
+  BFF --> ORM
+  REST --> ORM
+  REST --> EVT
+  BFF --> EVT
+  EVT --> WORK
+  RT --> REDIS
+  ORM --> PG
+  PG --> REPL
+  BFF --> REDIS
+  REST --> REDIS
+  WORK --> REDIS
+  WORK --> PG
+  REST --> BLOB
+  CI --> DOCKER --> CLOUD
+  REST -.-> OBS
+  WORK -.-> OBS
+  GW -.-> OBS
 ```
+
+| Layer | What lives here |
+| --- | --- |
+| **Clients** | Next.js and TanStack Start on the web, Expo on mobile, TanStack Query and Zustand for server/client state |
+| **Edge** | CDN and Vercel Edge for TLS, caching, and geo routing; Caddy or Nginx as reverse proxy and load balancer |
+| **Identity** | Sessions, JWT, OAuth; Firebase or Supabase Auth when a hosted identity layer is the right call |
+| **APIs** | tRPC for first-party typed RPCs; Hono, NestJS, and Fastify for REST; Convex and WebSockets for realtime |
+| **Async** | Redis-backed queues, cron, and a pub/sub event bus so writes can fan out without blocking the request path |
+| **Data** | PostgreSQL as source of truth with a read replica; Redis for cache, sessions, and jobs; object storage for media; Prisma or Drizzle as the ORM |
+| **Platform** | Dockerized services on AWS, GCP, DigitalOcean, or Hetzner; Vercel for the web surface; GitHub Actions for CI/CD |
+| **Observability** | Structured logs, metrics, and traces on the gateway, APIs, and workers |
 
 <div align="center">
 
@@ -146,36 +214,6 @@ flowchart LR
   <img src="./assets/divider.svg" width="100%" alt="" />
 </p>
 
-## Selected work
-
-<div align="center">
-  <a href="https://github.com/cHANGTEEZY/CPipe">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cHANGTEEZY&repo=CPipe&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=818CF8&text_color=C9D1D9" alt="CPipe" />
-  </a>
-  <a href="https://github.com/cHANGTEEZY/CV-Manager">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cHANGTEEZY&repo=CV-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=818CF8&text_color=C9D1D9" alt="CV-Manager" />
-  </a>
-  <br />
-  <a href="https://github.com/cHANGTEEZY/ReceiptRival">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cHANGTEEZY&repo=ReceiptRival&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=818CF8&text_color=C9D1D9" alt="ReceiptRival" />
-  </a>
-  <a href="https://github.com/cHANGTEEZY/windows">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cHANGTEEZY&repo=windows&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=818CF8&text_color=C9D1D9" alt="Windows 7 portfolio" />
-  </a>
-</div>
-
-**[CPipe](https://github.com/cHANGTEEZY/CPipe)** — Lean project pipeline that turns todo into shipped. Live burn-downs, auto-generated changelogs, GitHub-native CI hooks.
-
-**[CV-Manager](https://github.com/cHANGTEEZY/CV-Manager)** — Resume and CV management for building, organizing, and exporting professional profiles.
-
-**[ReceiptRival](https://github.com/cHANGTEEZY/ReceiptRival)** — Expo and React Native app with a Convex backend to split receipts and track balances in real time.
-
-**[Windows 7 Portfolio](https://github.com/cHANGTEEZY/windows)** — Retro web-based Windows 7 portfolio with drag-and-drop, Next.js App Router, and Postgres.
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</p>
-
 ## Freelance
 
 I take on freelance work alongside studio projects, especially with early-stage teams on clear, high-impact problems.
@@ -206,5 +244,3 @@ Full-stack web apps · Frontend development · Cross-platform mobile · MVP buil
 <div align="center">
   <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build%20simple%20things%20that%20scale%2C%20not%20complex%20things%20that%20break.&author=Sushank%20Gurung" alt="Build simple things that scale, not complex things that break." />
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:6366f1,100:0891b2&height=120&section=footer" alt="" />
