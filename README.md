@@ -32,30 +32,35 @@ I build web apps, admin dashboards and mobile clients, and I usually own the who
 
 ### Stack
 
-<img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=e6edf3" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=e6edf3" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=e6edf3" alt="Next.js" />
-<img src="https://img.shields.io/badge/Expo-161b22?style=flat-square&logo=expo&logoColor=e6edf3" alt="Expo" />
-<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=e6edf3" alt="Node.js" />
-<img src="https://img.shields.io/badge/Bun-161b22?style=flat-square&logo=bun&logoColor=e6edf3" alt="Bun" />
-<img src="https://img.shields.io/badge/Hono-161b22?style=flat-square&logo=hono&logoColor=e6edf3" alt="Hono" />
-<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=e6edf3" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Drizzle-161b22?style=flat-square&logo=drizzle&logoColor=e6edf3" alt="Drizzle" />
-<img src="https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwindcss&logoColor=e6edf3" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=e6edf3" alt="Docker" />
-<img src="https://img.shields.io/badge/Cloudflare-161b22?style=flat-square&logo=cloudflare&logoColor=e6edf3" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=e6edf3" alt="Go" />
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=e6edf3" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=e6edf3" alt="JavaScript" /> <img src="https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=e6edf3" alt="Go" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=e6edf3" alt="React" /> <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=e6edf3" alt="Next.js" /> <img src="https://img.shields.io/badge/TanStack-161b22?style=flat-square&logo=reactquery&logoColor=e6edf3" alt="TanStack" /> <img src="https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwindcss&logoColor=e6edf3" alt="Tailwind" /></td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><img src="https://img.shields.io/badge/React_Native-161b22?style=flat-square&logo=react&logoColor=e6edf3" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-161b22?style=flat-square&logo=expo&logoColor=e6edf3" alt="Expo" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=e6edf3" alt="Node.js" /> <img src="https://img.shields.io/badge/Bun-161b22?style=flat-square&logo=bun&logoColor=e6edf3" alt="Bun" /> <img src="https://img.shields.io/badge/Hono-161b22?style=flat-square&logo=hono&logoColor=e6edf3" alt="Hono" /> <img src="https://img.shields.io/badge/Better_Auth-161b22?style=flat-square" alt="Better Auth" /></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=e6edf3" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Drizzle-161b22?style=flat-square&logo=drizzle&logoColor=e6edf3" alt="Drizzle" /> <img src="https://img.shields.io/badge/Convex-161b22?style=flat-square&logo=convex&logoColor=e6edf3" alt="Convex" /> <img src="https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=e6edf3" alt="Firebase" /></td>
+  </tr>
+  <tr>
+    <td><b>Infra</b></td>
+    <td><img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=e6edf3" alt="Docker" /> <img src="https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=e6edf3" alt="Vercel" /> <img src="https://img.shields.io/badge/Cloudflare-161b22?style=flat-square&logo=cloudflare&logoColor=e6edf3" alt="Cloudflare" /></td>
+  </tr>
+</table>
 
 ### Desk
 
 CachyOS with Hyprland ([dotfiles](https://github.com/cHANGTEEZY/cachyos-dotfiles)) and Neovim ([config](https://github.com/cHANGTEEZY/neovim-config-ctz)). Most days are TypeScript, with more Go creeping in.
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cHANGTEEZY/cHANGTEEZY/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cHANGTEEZY/cHANGTEEZY/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/cHANGTEEZY/cHANGTEEZY/output/github-contribution-grid-snake.svg" />
-</picture>
 
 <sub>Open to freelance work, fixed-price or hourly. Write to <a href="mailto:jagatgurung30@gmail.com">jagatgurung30@gmail.com</a>.</sub>
