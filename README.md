@@ -1,66 +1,61 @@
-# Sushank Gurung
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg" />
+  <img alt="Sushank Gurung, full-stack and React Native developer" src="assets/terminal-dark.svg" width="100%" />
+</picture>
 
-Full stack and React Native developer in Lalitpur, Nepal. Three-plus years shipping production web apps, admin dashboards, and mobile clients — about two years at Margintop Solutions, two years freelance, and founder of [VBEE Studio](https://vbee.sushankgurung.com).
+<br />
 
-[Email](mailto:jagatgurung30@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sushank-gurung) · [VBEE Studio](https://vbee.sushankgurung.com)
+I build web apps, admin dashboards and mobile clients, and I usually own the whole slice: UI, auth, API, schema and deploy. About two years at Margintop Solutions, two years freelancing, and I run [VBEE Studio](https://vbee.sushankgurung.com), a small React and React Native team in Kathmandu.
 
-<table>
-  <tr>
-    <td>
-      <strong>Now</strong><br />
-      Web developer, Margintop Solutions
-    </td>
-    <td>
-      <strong>Studio</strong><br />
-      Lead engineer, <a href="https://vbee.sushankgurung.com">VBEE Studio</a>
-    </td>
-    <td>
-      <strong>Where</strong><br />
-      Lalitpur, Nepal · UTC+5:45
-    </td>
-    <td>
-      <strong>Open to</strong><br />
-      Freelance — a feature or a full product
-    </td>
-  </tr>
-</table>
+[Email](mailto:jagatgurung30@gmail.com) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/sushank-gurung) &nbsp;/&nbsp; [VBEE Studio](https://vbee.sushankgurung.com) &nbsp;/&nbsp; Lalitpur, Nepal (UTC+5:45)
 
-## Now
+---
 
-At Margintop I work on institute SaaS, healthcare staffing, and the Oripari mobile app. Admin dashboards across the company start from a shared React system I built so new projects reuse one layout, data-fetching layer, and UI kit. Through freelance and VBEE Studio — a five-person React and React Native team in Kathmandu — I also take on client products, from Expo field tools to Next.js sites.
+### Shipped
 
-## Selected work
+| | | |
+| --- | --- | --- |
+| **[Oripari](https://oripari.com.au)** | Rooms, jobs, events and chat for Nepalis in Australia. 21,000+ users on [Play](https://play.google.com/store/apps/details?id=com.probits.oripari) and the [App Store](https://apps.apple.com/au/app/oripari/id6737851096). | React Native, Firebase |
+| **[MDESK](https://mdesk.net)** | Institute management SaaS: inquiries, courses, fees and phone-first live attendance. | Next.js, React, TanStack |
+| **[Mr. Valuator](https://mrvaluator.com)** | Offline-first property valuation across all 77 districts of Nepal, with 100+ bank-specific report formats. | Expo, SQLite sync, Refine, Better Auth |
+| **[Clinical Talent](https://clinicaltalent.com.au/en)** | Site and staffing dashboard for an Australian healthcare agency. | Next.js, React |
+| **[Heart to Help](https://hearttohelp.com.au)** | Site for a Sydney NDIS provider with booking, hiring and feedback flows. | Next.js |
 
-**[MDESK](https://mdesk.net)** — Institute-management SaaS (inquiries, courses, students, fees, phone-first live attendance), used by institutes such as Starbridge Educational Consultancy. Next.js marketing site plus a React, Tailwind, and TanStack Query/Table dashboard with CSV export and audit logs.
+### Open source
 
-**[Oripari](https://oripari.com.au)** — App for Nepalis in Australia: room and job listings, local events, in-app chat, and notifications. React Native and Firebase; on [Google Play](https://play.google.com/store/apps/details?id=com.probits.oripari) and the [App Store](https://apps.apple.com/au/app/oripari/id6737851096). 21,000+ users.
+- **[CPipe](https://github.com/cHANGTEEZY/CPipe)** is a multi-workspace Kanban with roles, live activity logs and optimistic drag-and-drop on Convex.
+- **[receipt-rival-api](https://github.com/cHANGTEEZY/receipt-rival-api)** is the typed REST API behind ReceiptRival, built on Bun, Hono, Drizzle and Postgres.
+- **[hono-api-boiler-plate](https://github.com/cHANGTEEZY/hono-api-boiler-plate)** is the API starter I reuse, with auth, migrations, rate limits, OpenAPI docs and Docker.
+- **[CV-Manager](https://github.com/cHANGTEEZY/CV-Manager)** tracks applicants for HR teams, from interviews to offer letters.
+- **[pocket-habit](https://github.com/cHANGTEEZY/pocket-habit)** is an Expo habit tracker with schedules and streaks.
 
-**[Mr. Valuator](https://mrvaluator.com)** — Offline-first property valuation across Nepal’s 77 districts. [Field app](https://github.com/cHANGTEEZY/evaluation_employee) in Expo (MapLibre / GalliMaps, multi-step forms, photo and PDF export, SQLite sync with conflict handling) and an admin portal in React, Refine, and Better Auth — role-based access and 100+ bank-specific report export formats.
+### Stack
 
-**[Clinical Talent Australia](https://clinicaltalent.com.au/en)** — Next.js site and React management dashboard for a healthcare staffing agency, with separate job-seeker and employer staff-request flows and localized routing.
+<img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=e6edf3" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=e6edf3" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=e6edf3" alt="Next.js" />
+<img src="https://img.shields.io/badge/Expo-161b22?style=flat-square&logo=expo&logoColor=e6edf3" alt="Expo" />
+<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=e6edf3" alt="Node.js" />
+<img src="https://img.shields.io/badge/Bun-161b22?style=flat-square&logo=bun&logoColor=e6edf3" alt="Bun" />
+<img src="https://img.shields.io/badge/Hono-161b22?style=flat-square&logo=hono&logoColor=e6edf3" alt="Hono" />
+<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=e6edf3" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Drizzle-161b22?style=flat-square&logo=drizzle&logoColor=e6edf3" alt="Drizzle" />
+<img src="https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwindcss&logoColor=e6edf3" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=e6edf3" alt="Docker" />
+<img src="https://img.shields.io/badge/Cloudflare-161b22?style=flat-square&logo=cloudflare&logoColor=e6edf3" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=e6edf3" alt="Go" />
 
-**[Heart to Help](https://hearttohelp.com.au)** — Next.js site for a Sydney NDIS provider: service pages, blog, consultation booking, hiring, and a consent-based feedback form, plus sitemap and SEO metadata.
+### Desk
 
-## On GitHub
+CachyOS with Hyprland ([dotfiles](https://github.com/cHANGTEEZY/cachyos-dotfiles)) and Neovim ([config](https://github.com/cHANGTEEZY/neovim-config-ctz)). Most days are TypeScript, with more Go creeping in.
 
-**[CPipe](https://github.com/cHANGTEEZY/CPipe)** — Multi-workspace Kanban with Owner / Admin / Editor / Viewer roles, Convex real-time sync, drag-and-drop with optimistic updates, and live activity logs.
+<br />
 
-**[receipt-rival-api](https://github.com/cHANGTEEZY/receipt-rival-api)** — Typed REST API for ReceiptRival, deployed on [Vercel](https://receipt-rival-api.vercel.app). Bun, Hono, Better Auth, Drizzle, PostgreSQL.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cHANGTEEZY/cHANGTEEZY/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cHANGTEEZY/cHANGTEEZY/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/cHANGTEEZY/cHANGTEEZY/output/github-contribution-grid-snake.svg" />
+</picture>
 
-**[hono-api-boiler-plate](https://github.com/cHANGTEEZY/hono-api-boiler-plate)** — API starter I reuse: auth, migrations, rate limiting, OpenAPI docs, health checks, multi-stage Docker.
-
-**[pocket-habit](https://github.com/cHANGTEEZY/pocket-habit)** — Expo habit tracker (Bloom) for iOS and Android — schedules, streaks, PocketBase, light and dark appearance.
-
-**[CV-Manager](https://github.com/cHANGTEEZY/CV-Manager)** — Applicant tracking for HR teams: interviews, assignments, templated offer and rejection letters, conversion analytics, S3 document storage. Live at [cv-manager-rose.vercel.app](https://cv-manager-rose.vercel.app).
-
-**[neovim-config-ctz](https://github.com/cHANGTEEZY/neovim-config-ctz)** and **[cachyos-dotfiles](https://github.com/cHANGTEEZY/cachyos-dotfiles)** — Daily Neovim config (Kickstart-based, TypeScript and Go) and CachyOS Hyprland setup.
-
-## Stack
-
-TypeScript · React · Next.js · React Native / Expo · Node.js / Bun · Hono · PostgreSQL / Drizzle · TanStack · Tailwind · Docker · Vercel · Cloudflare
-
-I am used to owning a slice of a product or the whole thing: UI, auth, API, schema, and deploy.
-
-## Contact
-
-[jagatgurung30@gmail.com](mailto:jagatgurung30@gmail.com) — freelance as fixed-price or hourly. Async-friendly from Nepal time.
+<sub>Open to freelance work, fixed-price or hourly. Write to <a href="mailto:jagatgurung30@gmail.com">jagatgurung30@gmail.com</a>.</sub>
