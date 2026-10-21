@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="888" height="252" viewBox="0 0 888 252" role="img" aria-labelledby="title desc">
+  <title id="title">sushank@cachyos</title>
+  <desc id="desc">Neofetch-style profile card: CachyOS, Neovim, TypeScript stack, Margintop Solutions, Lalitpur</desc>
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
+      font-size: 13px;
+    }
+    .cursor {
+      animation: blink 1.1s steps(1) infinite;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="887" height="251" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <line x1="1" y1="24" x2="887" y2="24" stroke="#30363d" stroke-width="1"/>
+  <text x="26" y="17" fill="#8b949e" font-size="11">alacritty</text>
+  <rect x="42" y="50" width="11" height="11" fill="#3fb950"/>
+  <rect x="54" y="50" width="11" height="11" fill="#3fb950"/>
+  <rect x="66" y="50" width="11" height="11" fill="#3fb950"/>
+  <rect x="30" y="62" width="11" height="11" fill="#3fb950"/>
+  <rect x="30" y="74" width="11" height="11" fill="#3fb950"/>
+  <rect x="42" y="86" width="11" height="11" fill="#3fb950"/>
+  <rect x="54" y="86" width="11" height="11" fill="#3fb950"/>
+  <rect x="66" y="86" width="11" height="11" fill="#3fb950"/>
+  <rect x="78" y="98" width="11" height="11" fill="#3fb950"/>
+  <rect x="78" y="110" width="11" height="11" fill="#3fb950"/>
+  <rect x="42" y="122" width="11" height="11" fill="#3fb950"/>
+  <rect x="54" y="122" width="11" height="11" fill="#3fb950"/>
+  <rect x="66" y="122" width="11" height="11" fill="#3fb950"/>
+  <rect x="138" y="50" width="11" height="11" fill="#3fb950"/>
+  <rect x="150" y="50" width="11" height="11" fill="#3fb950"/>
+  <rect x="162" y="50" width="11" height="11" fill="#3fb950"/>
+  <rect x="126" y="62" width="11" height="11" fill="#3fb950"/>
+  <rect x="174" y="62" width="11" height="11" fill="#3fb950"/>
+  <rect x="126" y="74" width="11" height="11" fill="#3fb950"/>
+  <rect x="126" y="86" width="11" height="11" fill="#3fb950"/>
+  <rect x="150" y="86" width="11" height="11" fill="#3fb950"/>
+  <rect x="162" y="86" width="11" height="11" fill="#3fb950"/>
+  <rect x="174" y="86" width="11" height="11" fill="#3fb950"/>
+  <rect x="126" y="98" width="11" height="11" fill="#3fb950"/>
+  <rect x="174" y="98" width="11" height="11" fill="#3fb950"/>
+  <rect x="126" y="110" width="11" height="11" fill="#3fb950"/>
+  <rect x="174" y="110" width="11" height="11" fill="#3fb950"/>
+  <rect x="138" y="122" width="11" height="11" fill="#3fb950"/>
+  <rect x="150" y="122" width="11" height="11" fill="#3fb950"/>
+  <rect x="162" y="122" width="11" height="11" fill="#3fb950"/>
+  <text x="236" y="52" font-weight="700"><tspan fill="#3fb950">sushank</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#3fb950">cachyos</tspan></text>
+  <text x="236" y="74" fill="#8b949e">------------------------------</text>
+  <text x="236" y="96"><tspan fill="#3fb950">os      </tspan><tspan fill="#8b949e">:  </tspan><tspan fill="#e6edf3">CachyOS · Hyprland</tspan></text>
+  <text x="236" y="118"><tspan fill="#3fb950">editor  </tspan><tspan fill="#8b949e">:  </tspan><tspan fill="#e6edf3">Neovim</tspan></text>
+  <text x="236" y="140"><tspan fill="#3fb950">shell   </tspan><tspan fill="#8b949e">:  </tspan><tspan fill="#e6edf3">zsh</tspan></text>
+  <text x="236" y="162"><tspan fill="#3fb950">stack   </tspan><tspan fill="#8b949e">:  </tspan><tspan fill="#e6edf3">TypeScript, React, Expo, Hono</tspan></text>
+  <text x="236" y="184"><tspan fill="#3fb950">now     </tspan><tspan fill="#8b949e">:  </tspan><tspan fill="#e6edf3">Web developer, Margintop Solutions</tspan></text>
+  <text x="236" y="206"><tspan fill="#3fb950">based   </tspan><tspan fill="#8b949e">:  </tspan><tspan fill="#e6edf3">Lalitpur, Nepal · UTC+5:45</tspan></text>
+  <text x="236" y="236"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">whoami</tspan><tspan fill="#3fb950" class="cursor"> █</tspan></text>
+</svg>

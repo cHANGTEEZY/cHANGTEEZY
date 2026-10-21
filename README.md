@@ -1,66 +1,58 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg" />
-  <img alt="Sushank Gurung, full-stack and React Native developer" src="assets/terminal-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg" />
+  <img src="assets/neofetch-light.svg" alt="sushank@cachyos — CachyOS, Neovim, TypeScript / Expo / Hono" width="888" />
 </picture>
 
-<br />
+Full stack and React Native developer. Three-plus years shipping production web apps, admin dashboards, and mobile clients — about two years at Margintop Solutions, two years freelance, and founder of [VBEE Studio](https://vbee.sushankgurung.com).
 
-I build web apps, admin dashboards and mobile clients, and I usually own the whole slice: UI, auth, API, schema and deploy. About two years at Margintop Solutions, two years freelancing, and I run [VBEE Studio](https://vbee.sushankgurung.com), a small React and React Native team in Kathmandu.
+At Margintop I work on institute SaaS, healthcare staffing, and Oripari. Admin dashboards across the company start from a shared React system I built. Freelance and VBEE Studio — a five-person React / React Native team in Kathmandu — cover client products.
 
-[Email](mailto:jagatgurung30@gmail.com) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/sushank-gurung) &nbsp;/&nbsp; [VBEE Studio](https://vbee.sushankgurung.com) &nbsp;/&nbsp; Lalitpur, Nepal (UTC+5:45)
-
----
-
-### Shipped
-
-| | | |
-| --- | --- | --- |
-| **[Oripari](https://oripari.com.au)** | Rooms, jobs, events and chat for Nepalis in Australia. 21,000+ users on [Play](https://play.google.com/store/apps/details?id=com.probits.oripari) and the [App Store](https://apps.apple.com/au/app/oripari/id6737851096). | React Native, Firebase |
-| **[MDESK](https://mdesk.net)** | Institute management SaaS: inquiries, courses, fees and phone-first live attendance. | Next.js, React, TanStack |
-| **[Mr. Valuator](https://mrvaluator.com)** | Offline-first property valuation across all 77 districts of Nepal, with 100+ bank-specific report formats. | Expo, SQLite sync, Refine, Better Auth |
-| **[Clinical Talent](https://clinicaltalent.com.au/en)** | Site and staffing dashboard for an Australian healthcare agency. | Next.js, React |
-| **[Heart to Help](https://hearttohelp.com.au)** | Site for a Sydney NDIS provider with booking, hiring and feedback flows. | Next.js |
-
-### Open source
-
-- **[CPipe](https://github.com/cHANGTEEZY/CPipe)** is a multi-workspace Kanban with roles, live activity logs and optimistic drag-and-drop on Convex.
-- **[receipt-rival-api](https://github.com/cHANGTEEZY/receipt-rival-api)** is the typed REST API behind ReceiptRival, built on Bun, Hono, Drizzle and Postgres.
-- **[hono-api-boiler-plate](https://github.com/cHANGTEEZY/hono-api-boiler-plate)** is the API starter I reuse, with auth, migrations, rate limits, OpenAPI docs and Docker.
-- **[CV-Manager](https://github.com/cHANGTEEZY/CV-Manager)** tracks applicants for HR teams, from interviews to offer letters.
-- **[pocket-habit](https://github.com/cHANGTEEZY/pocket-habit)** is an Expo habit tracker with schedules and streaks.
-
-### Stack
+[jagatgurung30@gmail.com](mailto:jagatgurung30@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sushank-gurung) · [VBEE Studio](https://vbee.sushankgurung.com)
 
 <table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=e6edf3" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=e6edf3" alt="JavaScript" /> <img src="https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=e6edf3" alt="Go" /></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=e6edf3" alt="React" /> <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=e6edf3" alt="Next.js" /> <img src="https://img.shields.io/badge/TanStack-161b22?style=flat-square&logo=reactquery&logoColor=e6edf3" alt="TanStack" /> <img src="https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwindcss&logoColor=e6edf3" alt="Tailwind" /></td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td><img src="https://img.shields.io/badge/React_Native-161b22?style=flat-square&logo=react&logoColor=e6edf3" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-161b22?style=flat-square&logo=expo&logoColor=e6edf3" alt="Expo" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=e6edf3" alt="Node.js" /> <img src="https://img.shields.io/badge/Bun-161b22?style=flat-square&logo=bun&logoColor=e6edf3" alt="Bun" /> <img src="https://img.shields.io/badge/Hono-161b22?style=flat-square&logo=hono&logoColor=e6edf3" alt="Hono" /> <img src="https://img.shields.io/badge/Better_Auth-161b22?style=flat-square" alt="Better Auth" /></td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=e6edf3" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Drizzle-161b22?style=flat-square&logo=drizzle&logoColor=e6edf3" alt="Drizzle" /> <img src="https://img.shields.io/badge/Convex-161b22?style=flat-square&logo=convex&logoColor=e6edf3" alt="Convex" /> <img src="https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=e6edf3" alt="Firebase" /></td>
-  </tr>
-  <tr>
-    <td><b>Infra</b></td>
-    <td><img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=e6edf3" alt="Docker" /> <img src="https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=e6edf3" alt="Vercel" /> <img src="https://img.shields.io/badge/Cloudflare-161b22?style=flat-square&logo=cloudflare&logoColor=e6edf3" alt="Cloudflare" /></td>
-  </tr>
+<tr>
+<td valign="top" width="50%">
+
+### work
+
+**[MDESK](https://mdesk.net)** — Institute SaaS: inquiries, courses, fees, phone-first live attendance. Next.js + React dashboard.
+
+**[Oripari](https://oripari.com.au)** — Rooms, jobs, events for Nepalis in Australia. React Native. 21k+ users. [Play](https://play.google.com/store/apps/details?id=com.probits.oripari) · [App Store](https://apps.apple.com/au/app/oripari/id6737851096)
+
+**[Mr. Valuator](https://mrvaluator.com)** — Offline field valuation across 77 districts; admin exports 100+ bank formats. [Field app](https://github.com/cHANGTEEZY/evaluation_employee)
+
+**[Clinical Talent](https://clinicaltalent.com.au/en)** — Healthcare staffing site and dashboard. Next.js.
+
+**[Heart to Help](https://hearttohelp.com.au)** — Sydney NDIS provider site. Next.js.
+
+</td>
+<td valign="top" width="50%">
+
+### repos
+
+**[CPipe](https://github.com/cHANGTEEZY/CPipe)** — Real-time Kanban. Convex, RBAC, optimistic drag-and-drop.
+
+**[receipt-rival-api](https://github.com/cHANGTEEZY/receipt-rival-api)** — Hono / Bun API on [Vercel](https://receipt-rival-api.vercel.app).
+
+**[hono-api-boiler-plate](https://github.com/cHANGTEEZY/hono-api-boiler-plate)** — Auth, Drizzle, OpenAPI, Docker starter.
+
+**[pocket-habit](https://github.com/cHANGTEEZY/pocket-habit)** — Expo habit tracker (Bloom) + PocketBase.
+
+**[CV-Manager](https://github.com/cHANGTEEZY/CV-Manager)** — ATS: interviews, letters, S3. [Live](https://cv-manager-rose.vercel.app)
+
+**[neovim-config-ctz](https://github.com/cHANGTEEZY/neovim-config-ctz)** — Kickstart Neovim for TypeScript and Go.
+
+**[cachyos-dotfiles](https://github.com/cHANGTEEZY/cachyos-dotfiles)** — Hyprland setup on CachyOS.
+
+</td>
+</tr>
 </table>
 
-### Desk
+### contact
 
-CachyOS with Hyprland ([dotfiles](https://github.com/cHANGTEEZY/cachyos-dotfiles)) and Neovim ([config](https://github.com/cHANGTEEZY/neovim-config-ctz)). Most days are TypeScript, with more Go creeping in.
+[jagatgurung30@gmail.com](mailto:jagatgurung30@gmail.com) — freelance as fixed-price or hourly. Async from Nepal time (UTC+5:45).
 
-<sub>Open to freelance work, fixed-price or hourly. Write to <a href="mailto:jagatgurung30@gmail.com">jagatgurung30@gmail.com</a>.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-snake-dark.svg" />
+  <img src="assets/contrib-snake-light.svg" alt="GitHub contribution snake" width="888" />
+</picture>
