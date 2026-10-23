@@ -52,7 +52,4 @@ At Margintop I work on institute SaaS, healthcare staffing, and Oripari. Admin d
 
 [jagatgurung30@gmail.com](mailto:jagatgurung30@gmail.com) — freelance as fixed-price or hourly. Async from Nepal time (UTC+5:45).
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-snake-dark.svg" />
-  <img src="assets/contrib-snake-light.svg" alt="GitHub contribution snake" width="888" />
-</picture>
+
