@@ -3,11 +3,13 @@
   <img src="assets/neofetch-light.svg" alt="sushank@cachyos — CachyOS, Neovim, TypeScript / Expo / Hono" width="888" />
 </picture>
 
-Full stack and React Native developer. Three-plus years shipping production web apps, admin dashboards, and mobile clients — about two years at Margintop Solutions, two years freelance, and founder of [VBEE Studio](https://vbee.sushankgurung.com).
+React and React Native developer based in Kathmandu, Nepal. Three-plus years building web and mobile products with React, React Native, and Expo, with TypeScript and Node.js behind them.
 
-At Margintop I work on institute SaaS, healthcare staffing, and Oripari. Admin dashboards across the company start from a shared React system I built. Freelance and VBEE Studio — a five-person React / React Native team in Kathmandu — cover client products.
+I've worked with software companies in Lalitpur (Margintop Solutions and Probits, since 2024) and with freelance clients in Nepal and Australia: offline field apps used across all 77 districts of Nepal, community apps on Google Play and the App Store, and dashboards teams use every day.
 
-[jagatgurung30@gmail.com](mailto:jagatgurung30@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sushank-gurung) · [VBEE Studio](https://vbee.sushankgurung.com)
+I work solo, on purpose. When you hire me, you talk to the person writing your code: no account managers, no hand-offs. Available for freelance work worldwide.
+
+**[Portfolio](https://developer-portfolio.jagatgurung30.workers.dev)** · [sushankgurung2002@gmail.com](mailto:sushankgurung2002@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sushank-gurung/)
 
 <table>
 <tr>
@@ -15,15 +17,15 @@ At Margintop I work on institute SaaS, healthcare staffing, and Oripari. Admin d
 
 ### work
 
-**[MDESK](https://mdesk.net)** — Institute SaaS: inquiries, courses, fees, phone-first live attendance. Next.js + React dashboard.
+**[MDESK](https://mdesk.margintopsolutions.com.np/)** — Institute SaaS: inquiries, courses, fees, phone-first live attendance. Web and mobile.
 
-**[Oripari](https://oripari.com.au)** — Rooms, jobs, events for Nepalis in Australia. React Native. 21k+ users. [Play](https://play.google.com/store/apps/details?id=com.probits.oripari) · [App Store](https://apps.apple.com/au/app/oripari/id6737851096)
+**[Oripari](https://oripari.com.au)** — Rooms, jobs, events for Nepalis in Australia. Cross-platform React Native app. 21k+ users. [Play](https://play.google.com/store/apps/details?id=com.probits.oripari) · [App Store](https://apps.apple.com/np/app/oripari/id6737851096)
 
-**[Mr. Valuator](https://mrvaluator.com)** — Offline field valuation across 77 districts; admin exports 100+ bank formats. [Field app](https://github.com/cHANGTEEZY/evaluation_employee)
+**[Mr. Valuator](https://mrvaluator.com)** — Offline field valuation across 77 districts; admin exports 100+ bank formats. [App Store](https://apps.apple.com/np/app/mr-valuator/id6761289671) · [Field app](https://github.com/cHANGTEEZY/evaluation_employee)
 
-**[Clinical Talent](https://clinicaltalent.com.au/en)** — Healthcare staffing site and dashboard. Next.js.
+**[Clinical Talent Australia](https://clinicaltalent.com.au/en)** — Healthcare staffing: admin, web, and mobile app.
 
-**[Heart to Help](https://hearttohelp.com.au)** — Sydney NDIS provider site. Next.js.
+**[Heart to Help](https://hearttohelp.com.au)** — Sydney NDIS provider web app. Next.js.
 
 </td>
 <td valign="top" width="50%">
@@ -48,8 +50,15 @@ At Margintop I work on institute SaaS, healthcare staffing, and Oripari. Admin d
 </tr>
 </table>
 
+### what I do
+
+**Build** — new web and mobile products with React, React Native, and Expo, from idea to release.
+**Improve** — React Native / Expo upgrades, performance tuning, codebase stabilization, and feature work on existing apps.
+
+How I work: discovery → design → build → ship, and I stay in the thread after release.
+
 ### contact
 
-[jagatgurung30@gmail.com](mailto:jagatgurung30@gmail.com) — freelance as fixed-price or hourly. Async from Nepal time (UTC+5:45).
+[sushankgurung2002@gmail.com](mailto:sushankgurung2002@gmail.com) · [Portfolio](https://developer-portfolio.jagatgurung30.workers.dev) — freelance as fixed-price or hourly. Async from Nepal time (UTC+5:45).
 
 
